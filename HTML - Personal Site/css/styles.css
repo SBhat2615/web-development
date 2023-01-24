@@ -1,0 +1,25 @@
+/*
+Preference: INLINE > INTERNAL > EXTERNAL
+
+*/
+
+body{
+  background-color:#c9dfdf;
+}
+
+h1{
+  color: #74a2eb;
+}
+
+h3{
+  color: #5a729a;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  color: rgb(130, 128, 128);
+  border-width: 5px;
+  /* height by default set to 0 */
+}

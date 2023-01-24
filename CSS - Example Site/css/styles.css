@@ -1,0 +1,39 @@
+
+/****************** TAG SELECTORS *******************/
+body{
+  background-color:#a4cfcf;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  color: lightgray;
+  border-width: 5px;
+}
+
+/* Pseudo Class */
+body:hover{
+  background-color: #62df57;
+}
+
+
+/****************** ID SELECTORS *******************/
+#heading{
+  color: #295caf;
+}
+
+
+
+/****************** CLASS SELECTORS *******************/
+.spinach{
+  color: #28206d;
+}
+
+.spimage{
+  background-color: #182740;
+}
+
+.circular{
+  border-radius: 100%;
+}
